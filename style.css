@@ -1,0 +1,117 @@
+
+
+
+
+
+h1{
+  font-size:10em;
+}
+
+header img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	}
+	
+nav{
+    font-size: 23px;
+    font-family: "Arial";
+    color: rgb(122, 193, 183);
+    font-weight: bold;
+
+}
+
+nav :hover {
+    color: #9e2520;
+}
+h3{
+  font-family: "Century Gothic";
+  font-weight: bold;
+  color: #fdb84e;
+  text-transform: uppercase;
+  
+ }
+
+	
+ time {
+  font-size: 14px;
+  font-family: "Century Gothic";
+  color: rgb(124, 195, 185);
+  left: 9px;
+   
+}
+p{
+ line-height: 2;
+ font-family: "Century Gothic";
+}
+
+
+
+/*==================
+       SIDEBAR
+=====================*/
+
+aside{
+  border-radius: 10px;
+  font-family: "Century Gothic";
+  background-color: rgb(253, 184, 78);
+  position: absolute;
+  left: 666px;
+  top: 291px;
+  width: 220px;
+  height: 300px;
+  margin-left: auto;
+  text-transform: uppercase;
+}
+
+
+	h5{
+		 text-align: center;
+		 color:black;
+		 
+		}
+/*==================
+       FOOTER
+=====================*/
+footer{
+   
+    margin-top:20%;
+   
+}
+h6{
+	color:#aed8d2;
+	text-transform: uppercase;
+}
+.four{
+	color:black;	
+	
+	}
+
+
+.info1{
+	list-style-type: disc;
+	color:rgb(253, 184, 78);
+	
+	
+}
+a{
+	color:red;
+	
+	}	
+.info{
+	
+	list-style-type: disc;
+	color:rgb(253, 184, 78);
+	}
+	
+.info2{
+		list-style-type: none;
+	}
+
+#images img{
+	 margin: 0 18px;
+	}
+
+img{
+	    margin: 0 50px;
+	}
